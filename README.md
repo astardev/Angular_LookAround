@@ -23,20 +23,10 @@ Technologies/Frameworks used here :
 - Yeoman ( Optional now )
 
 
-**Update** : *I couldn't set up the tests using karma due to time constraints. That's the next item in my TODO list.*
 
 Demo
 ====
 
 Fiddle around with demo : [LookAround Demo App ](http://lookaround.herokuapp.com/)
 
-Want to Contribute ?
-====
 
-I'm so happy if you do. Fork the project, make whatever changes you want to do and submit a pull request. 
-
-For testing it locally, there's a `web-server.js` file included in the `scripts` folder. Open up the terminal and run the JS file ( You need to have **NodeJS** installed ).
-
-For any discussions on feature requests, improvements, bugs : join me here on [![Gitter chat](https://badges.gitter.im/shidhincr/LookAround.png)](https://gitter.im/shidhincr/LookAround)
-
-Copyright (c) 2014 Shidhin C R - [Licence](LICENCE.txt)
